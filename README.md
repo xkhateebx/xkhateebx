@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mahmoud Khateeb
 #### I am a Software developer.
-![I am a Software developer.](https://scontent.fjrs4-1.fna.fbcdn.net/v/t1.18169-9/10858593_991846934176401_3139332463167617195_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=e3f864&_nc_ohc=VItzE90XO2IAX-Q6-hu&_nc_oc=AQlU_Xg_ZFiwIAH4fje1M_xxaDwemtXewxEDQHCo4BINymyuW9-7WiIjYlqTWQFOMoI&_nc_ht=scontent.fjrs4-1.fna&oh=a85a7be0273317f6d5ddeb75ff90a07a&oe=609DBC0C)
+![I am a Software developer.](https://i.imgur.com/cQ4x4TR.png)
 
 A forward-thinking web developer. With in-depth
 knowledge in Python, Java and Web development using
